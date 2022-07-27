@@ -1,0 +1,85 @@
+@inproceedings{ronneberger2015u,
+  title={U-net: Convolutional networks for biomedical image segmentation},
+  author={Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas},
+  booktitle={International Conference on Medical image computing and computer-assisted intervention},
+  pages={234--241},
+  year={2015},
+  organization={Springer}
+}
+@article{du2016water,
+  title={Water bodies’ mapping from Sentinel-2 imagery with modified normalized difference water index at 10-m spatial resolution produced by sharpening the SWIR band},
+  author={Du, Yun and Zhang, Yihang and Ling, Feng and Wang, Qunming and Li, Wenbo and Li, Xiaodong},
+  journal={Remote Sensing},
+  volume={8},
+  number={4},
+  pages={354},
+  year={2016},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{pekel2016high,
+  title={High-resolution mapping of global surface water and its long-term changes},
+  author={Pekel, Jean-Fran{\c{c}}ois and Cottam, Andrew and Gorelick, Noel and Belward, Alan S},
+  journal={Nature},
+  volume={540},
+  number={7633},
+  pages={418--422},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{hu2018squeeze,
+  title={Squeeze-and-excitation networks},
+  author={Hu, Jie and Shen, Li and Sun, Gang},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={7132--7141},
+  year={2018}
+}
+@article{chini2019sentinel,
+  title={Sentinel-1 InSAR coherence to detect floodwater in urban areas: Houston and Hurricane Harvey as a test case},
+  author={Chini, Marco and Pelich, Ramona and Pulvirenti, Luca and Pierdicca, Nazzareno and Hostache, Renaud and Matgen, Patrick},
+  journal={Remote Sensing},
+  volume={11},
+  number={2},
+  pages={107},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{bonafilia2020sen1floods11,
+  title={Sen1Floods11: a georeferenced dataset to train and test deep learning flood algorithms for Sentinel-1},
+  author={Bonafilia, Derrick and Tellman, Beth and Anderson, Tyler and Issenberg, Erica},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={210--211},
+  year={2020}
+}
+@article{chen2020multi,
+  title={A Multi-Scale Deep Neural Network for Water Detection from SAR Images in the Mountainous Areas},
+  author={Chen, Lifu and Zhang, Peng and Xing, Jin and Li, Zhenhong and Xing, Xuemin and Yuan, Zhihui},
+  journal={Remote Sensing},
+  volume={12},
+  number={19},
+  pages={3205},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{mateo2021towards,
+  title={Towards global flood mapping onboard low cost satellites with machine learning},
+  author={Mateo-Garcia, Gonzalo and Veitch-Michaelis, Joshua and Smith, Lewis and Oprea, Silviu Vlad and Schumann, Guy and Gal, Yarin and Baydin, At{\i}l{\i}m G{\"u}ne{\c{s}} and Backes, Dietmar},
+  journal={Scientific reports},
+  volume={11},
+  number={1},
+  pages={1--12},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{konapala2021exploring,
+  title={Exploring Sentinel-1 and Sentinel-2 diversity for Flood inundation mapping using deep learning},
+  author={Konapala, Goutam and Kumar, Sujay},
+  booktitle={EGU General Assembly Conference Abstracts},
+  pages={EGU21--10445},
+  year={2021}
+}
+@article{han2021trusted,
+  title={Trusted Multi-View Classification},
+  author={Han, Zongbo and Zhang, Changqing and Fu, Huazhu and Zhou, Joey Tianyi},
+  journal={arXiv preprint arXiv:2102.02051},
+  year={2021}
+}
